@@ -1,0 +1,21 @@
+{
+  "name": "onsenui_for_website",
+  "version": "0.0.1",
+  "description": "Web site that use the Onsen UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atsushi Nakatsugawa",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-changed": "^1.2.1",
+    "gulp-coffee": "^2.3.1",
+    "gulp-concat": "^2.5.2",
+    "gulp-sourcemaps": "^1.5.1",
+    "gulp-uglify": "^1.1.0",
+    "gulp-webserver": "^0.9.0"
+  }
+}
